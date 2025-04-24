@@ -16,3 +16,15 @@ pip install -r requirements.txt
 
 python3 app.py
 ```
+
+Documentação em Swagger:
+
+```
+http://127.0.0.1:5000/apidocs
+```
+
+Obs: Após instalar uma dependência nova, para atualizar o arquivo requirements.txt execute o comando abaixo:
+
+```
+pip install -r requirements.txt --upgrade
+```
