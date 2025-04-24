@@ -1,9 +1,6 @@
 # crud-api-flask
 
-
-Passos para executar o projeto:
-
-1. Após executar o git clone execute os comandos abaixo na raiz do projeto:
+Após executar o git clone execute os comandos abaixo na raiz do projeto:
 
 ```
 python3 -m venv venv
